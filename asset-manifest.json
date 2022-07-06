@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/project10-trybe-tunes/static/css/main.2e8495e6.chunk.css",
-    "main.js": "/project10-trybe-tunes/static/js/main.933f6f59.chunk.js",
-    "main.js.map": "/project10-trybe-tunes/static/js/main.933f6f59.chunk.js.map",
+    "main.css": "/project10-trybe-tunes/static/css/main.a698c622.chunk.css",
+    "main.js": "/project10-trybe-tunes/static/js/main.f10065df.chunk.js",
+    "main.js.map": "/project10-trybe-tunes/static/js/main.f10065df.chunk.js.map",
     "runtime-main.js": "/project10-trybe-tunes/static/js/runtime-main.5d713ca3.js",
     "runtime-main.js.map": "/project10-trybe-tunes/static/js/runtime-main.5d713ca3.js.map",
     "static/js/2.9a7821a5.chunk.js": "/project10-trybe-tunes/static/js/2.9a7821a5.chunk.js",
     "static/js/2.9a7821a5.chunk.js.map": "/project10-trybe-tunes/static/js/2.9a7821a5.chunk.js.map",
     "index.html": "/project10-trybe-tunes/index.html",
-    "static/css/main.2e8495e6.chunk.css.map": "/project10-trybe-tunes/static/css/main.2e8495e6.chunk.css.map",
+    "static/css/main.a698c622.chunk.css.map": "/project10-trybe-tunes/static/css/main.a698c622.chunk.css.map",
     "static/js/2.9a7821a5.chunk.js.LICENSE.txt": "/project10-trybe-tunes/static/js/2.9a7821a5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/project10-trybe-tunes/static/media/pexels-keith-wako-89909.80e784d1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d713ca3.js",
     "static/js/2.9a7821a5.chunk.js",
-    "static/css/main.2e8495e6.chunk.css",
-    "static/js/main.933f6f59.chunk.js"
+    "static/css/main.a698c622.chunk.css",
+    "static/js/main.f10065df.chunk.js"
   ]
 }
